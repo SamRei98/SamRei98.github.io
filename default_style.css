@@ -1,0 +1,21 @@
+body {
+	background-color: LightGrey;
+}
+h1 {
+	color: SteelBlue;
+	font-family: verdana;
+	font-size: 300%;
+}
+h2 {
+	color: SteelBlue;
+	font-family: verdana;
+	font_size: 150%;
+}
+p {
+	color: black;
+	font-family: verdana	
+}
+a {
+	color: SteelBlue
+	font-family: CourierNew
+}
